@@ -1,5 +1,5 @@
 # Vision Transformer Paper List
-A thorough paper list for the most recent progress in vision transformer.
+A thorough paper list for the most recent progress in vision transformer. Mainly for image classification and object detection.
 
 ## Contents
 
@@ -36,6 +36,8 @@ A thorough paper list for the most recent progress in vision transformer.
 ### Self-Attention Network:
 
 - **[LR-Net]** Local Relation Networks for Image Recognition | **[ICCV 2019]** | [`[PDF]`](https://arxiv.org/pdf/1904.11491.pdf) [`[unofficial code - torch]`](https://github.com/gan3sh500/local-relational-nets) [`[paper-with-code]`](https://paperswithcode.com/paper/190411491#code)
+- **[NL-ConvNet]** Non-local Neural Networks | **[CVPR 2018]** | [`[PDF]`](https://arxiv.org/pdf/1711.07971.pdf) [`[official code - caffe]`](https://github.com/facebookresearch/video-nonlocal-net) [`[paper-with-code]`](https://paperswithcode.com/paper/non-local-neural-networks)
+- **[LR-Net]** Stand-Alone Self-Attention in Vision Models | **[NeurIPS 2019]** | [`[PDF]`](https://arxiv.org/pdf/1904.11491.pdf) [`[unofficial code - torch]`](https://github.com/leaderj1001/Stand-Alone-Self-Attention) [`[paper-with-code]`](https://paperswithcode.com/paper/stand-alone-self-attention-in-vision-models)
 
 ### Vision Transformer:
 
