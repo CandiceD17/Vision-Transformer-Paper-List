@@ -7,7 +7,7 @@ A thorough paper list for the most recent progress in vision transformer.
 - Model
   - [Transformer in General](https://github.com/CandiceD17/vision-transformer-paper-list#transformer-in-general)
   - [Survey](https://github.com/CandiceD17/vision-transformer-paper-list#survey)
-  - Attention to replace Convolution
+  - [Self-Attention Network](https://github.com/CandiceD17/vision-transformer-paper-list#self-attention-network)
   - [Vision Transformer](https://github.com/CandiceD17/vision-transformer-paper-list#vision-transformer)
 - [Blog](https://github.com/CandiceD17/vision-transformer-paper-list#%E7%9F%A5%E4%B9%8E%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3)
 
@@ -29,8 +29,8 @@ A thorough paper list for the most recent progress in vision transformer.
 
 ### Survey:
 
-- **[Survey]** Transformers in Vision: A Survey | **[Archive 2020]** | [`[PDF]`](https://arxiv.org/pdf/2101.01169.pdf) 
-- **[Survey]** A Survey on Transformer | **[Archive 2020]** | [`[PDF]`](https://arxiv.org/abs/2012.12556.pdf) 
+- **[Survey]** Transformers in Vision: A Survey | **[Archive 2021]** | [`[PDF]`](https://arxiv.org/pdf/2101.01169.pdf) 
+- **[Survey]** A Survey on Transformer | **[Archive 2021]** | [`[PDF]`](https://arxiv.org/abs/2012.12556.pdf) 
 - **[Survey]** Efficient Transformers: A Survey | **[Archive 2020]** | [`[PDF]`](https://arxiv.org/pdf/2009.06732.pdf) 
 
 ### Self-Attention Network:
