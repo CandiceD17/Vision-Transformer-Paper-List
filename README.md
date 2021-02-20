@@ -40,9 +40,9 @@ A thorough paper list for the most recent progress in vision transformer.
 ### Vision Transformer:
 
 - **[ViT]** Local Relation Networks for Image Recognition | **[ICLR 2021]** | [`[PDF]`](https://arxiv.org/pdf/1904.11491.pdf) [`[official code - jax]`](https://github.com/google-research/vision_transformer) [`[paper-with-code]`](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1)
+- **[DeiT]** Training data-efficient image transformers & distillation through attention | **[Archive 2021]** | [`[PDF]`](https://arxiv.org/abs/2012.12877.pdf) [`[official code - torch]`](https://github.com/facebookresearch/deit) [`[paper-with-code]`](https://paperswithcode.com/paper/training-data-efficient-image-transformers)
+- **[DETR]** End-to-End Object Detection with Transformers | **[ECCV 2020]** | [`[PDF]`](https://arxiv.org/pdf/2005.12872.pdf) [`[official code - torch]`](https://github.com/facebookresearch/detr) [`[paper-with-code]`](https://paperswithcode.com/paper/end-to-end-object-detection-with-transformers)
 - **[T2T-ViT]** Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet | **[Archive 2021]** | [`[PDF]`](https://arxiv.org/pdf/1904.11491.pdf) [`[official code - torch]`](https://github.com/yitu-opensource/T2T-ViT) [`[paper-with-code]`](https://paperswithcode.com/paper/tokens-to-token-vit-training-vision)
-
-
 
 ## 知乎原理详解：
 
