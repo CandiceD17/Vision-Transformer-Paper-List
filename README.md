@@ -7,8 +7,10 @@ A thorough paper list for the most recent progress in vision transformer. Mainly
 - Model
   - [Transformer in General](https://github.com/CandiceD17/vision-transformer-paper-list#transformer-in-general)
   - [Survey](https://github.com/CandiceD17/vision-transformer-paper-list#survey)
-  - [Self-Attention Network](https://github.com/CandiceD17/vision-transformer-paper-list#self-attention-network)
-  - [Vision Transformer](https://github.com/CandiceD17/vision-transformer-paper-list#vision-transformer)
+  - [Pure Attention Models](https://github.com/CandiceD17/vision-transformer-paper-list#pure-attention-models)
+  - [Convolution + Attention Models](https://github.com/CandiceD17/vision-transformer-paper-list#convolution--attention-models)
+    - [Transformer Blocks](https://github.com/CandiceD17/vision-transformer-paper-list#transformer-blocks)
+    - [Non-Local Blocks](https://github.com/CandiceD17/vision-transformer-paper-list#non-local-blocks)
 - [Blog](https://github.com/CandiceD17/vision-transformer-paper-list#%E7%9F%A5%E4%B9%8E%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3)
 
 ## Performance
@@ -25,7 +27,7 @@ A thorough paper list for the most recent progress in vision transformer. Mainly
 
 The model is listed using the taxonomy of self-attention architectures provided by in Google's paper [BoTNet]():
 
-![taxonomy of self-attention architectures](https://github.com/CandiceD17/vision-transformer-paper-list/assets/taxonomy.png)
+![taxonomy of self-attention architectures](https://github.com/CandiceD17/vision-transformer-paper-list/blob/master/assets/taxonomy.png)
 
 ### Transformer in General:
 
