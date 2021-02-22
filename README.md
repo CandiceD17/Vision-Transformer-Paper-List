@@ -25,7 +25,7 @@ A thorough paper list for the most recent progress in vision transformer. Mainly
 
 ## Model
 
-The model is listed using the taxonomy of self-attention architectures provided by in Google's paper [BoTNet]():
+The model is listed using the taxonomy of self-attention architectures provided by in Google's paper [BoTNet](https://github.com/CandiceD17/vision-transformer-paper-list#transformer-blocks):
 
 ![taxonomy of self-attention architectures](https://github.com/CandiceD17/vision-transformer-paper-list/blob/master/assets/taxonomy.png)
 
@@ -53,7 +53,7 @@ The model is listed using the taxonomy of self-attention architectures provided 
 
 - **[DETR]** End-to-End Object Detection with Transformers | **[ECCV 2020]** | [`[PDF]`](https://arxiv.org/pdf/2005.12872.pdf) [`[official code - torch]`](https://github.com/facebookresearch/detr) [`[paper-with-code]`](https://paperswithcode.com/paper/end-to-end-object-detection-with-transformers)
 - **[DeiT]** Training data-efficient image transformers & distillation through attention | **[Archive 2021]** | [`[PDF]`](https://arxiv.org/abs/2012.12877.pdf) [`[official code - torch]`](https://github.com/facebookresearch/deit) [`[paper-with-code]`](https://paperswithcode.com/paper/training-data-efficient-image-transformers)
-- **[BoTNet] ** Bottleneck Transformers for Visual Recognition  | **[Archive 2021]** | [`[PDF]`](https://arxiv.org/abs/2101.11605.pdf) [`[unofficial code - torch]`](https://github.com/lucidrains/bottleneck-transformer-pytorch) [`[paper-with-code]`](https://paperswithcode.com/paper/bottleneck-transformers-for-visual)
+- **[BoTNet]** Bottleneck Transformers for Visual Recognition  | **[Archive 2021]** | [`[PDF]`](https://arxiv.org/abs/2101.11605.pdf) [`[unofficial code - torch]`](https://github.com/lucidrains/bottleneck-transformer-pytorch) [`[paper-with-code]`](https://paperswithcode.com/paper/bottleneck-transformers-for-visual)
 
 #### Non-Local Blocks:
 
