@@ -55,6 +55,7 @@ The model is listed using the taxonomy of self-attention architectures provided 
 
 
 - **[DETR]** End-to-End Object Detection with Transformers | **[ECCV 2020]** | [`[PDF]`](https://arxiv.org/pdf/2005.12872.pdf) [`[official code - torch]`](https://github.com/facebookresearch/detr) [`[paper-with-code]`](https://paperswithcode.com/paper/end-to-end-object-detection-with-transformers)
+- **[Deformable DETR]** Deformable DETR: Deformable Transformers for End-to-End Object Detection | **[ICLR 2021]** | [`[PDF]`](https://arxiv.org/abs/2010.04159.pdf) [`[official code - torch]`](https://github.com/fundamentalvision/Deformable-DETR) [`[paper-with-code]`](https://paperswithcode.com/paper/deformable-detr-deformable-transformers-for-1)
 - **[BoTNet]** Bottleneck Transformers for Visual Recognition  | **[Archive 2021]** | [`[PDF]`](https://arxiv.org/abs/2101.11605.pdf) [`[unofficial code - torch]`](https://github.com/lucidrains/bottleneck-transformer-pytorch) [`[paper-with-code]`](https://paperswithcode.com/paper/bottleneck-transformers-for-visual)
 - **[UP-DETR]** UP-DETR: Unsupervised Pre-training for Object Detection with Transformers | **[CVPR 2021]** | [`[PDF]`](https://arxiv.org/abs/2011.09094.pdf) [`[official code - torch]`](https://github.com/dddzg/up-detr) [`[paper-with-code]`](https://paperswithcode.com/paper/up-detr-unsupervised-pre-training-for-object)
 
